@@ -1,6 +1,23 @@
 # Python Basics
 # ==============
 
+# Table of Contents
+1. [Python Basics](#python-basics)
+2. [Variables and Data Types](#variables-and-data-types)
+3. [Operators](#operators)
+4. [Control Structures](#control-structures)
+5. [Functions](#functions)
+6. [Modules](#modules)
+7. [File Input/Output](#file-inputoutput)
+8. [Exception Handling](#exception-handling)
+9. [Object-Oriented Programming](#object-oriented-programming)
+10. [Advanced Topics](#advanced-topics)
+11. [Data Structures](#data-structures)
+12. [List Comprehensions](#list-comprehensions)
+13. [For Loops](#for-loops)
+14. [While Loops](#while-loops)
+15. [Break and Continue Statements](#break-and-continue-statements)
+16. [API Connection in Python](#api-connection-in-python)
 ## Variables and Data Types
 
 Variables are used to store values. Python has several data types:
