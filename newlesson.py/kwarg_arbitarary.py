@@ -8,4 +8,5 @@ def name(**kwarg):        # it stores the arguments in a dictionary
     for key,value in kwarg.items(): 
         print(f"{key:10}:{value}")    
 
+# Call the function with different arguments
 name(country="india",state="tn",city="hosur")        

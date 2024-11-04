@@ -1,1 +1,2 @@
-print(help(str))
+dict={}
+print(help(dict))

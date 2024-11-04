@@ -42,3 +42,9 @@ neg_num=[num for num in numbers if num<=0]
 
 print(pos_num)
 print(neg_num)
+
+
+a=[ f"{i}is even" for i in range(1,10) if i%2==0 ]
+
+print(a)
+#output: 

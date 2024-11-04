@@ -19,7 +19,7 @@ def get_info(name):
     
     else:
         print("failed to retrieve data ")
-
+##
 
 name="rgher "
 #if the get_info(name) exists then reply becomes true

@@ -8,4 +8,3 @@ class register:
         print(f"{name} is present today")
     def performance(self,name):
         print(f" {name} performs well")
-        

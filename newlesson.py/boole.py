@@ -4,3 +4,5 @@ if name:
     print(" nnnnnnn")
 else:
     print("fffffff")
+
+    # Output: ffffffff

@@ -1,4 +1,5 @@
 #json file is the collection key value pair
+#json stands for  javascript object notation
 
 import json
 

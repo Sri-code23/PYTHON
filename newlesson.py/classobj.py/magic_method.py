@@ -8,7 +8,7 @@ class Book:
 
     def __eq__(self,other):                         #return the boolean(true/false) based on the condition
         return self.name==other.name 
- 
+    
     def __lt__(self,other):                         #checks the lower than codition 
         return self.age < other.age
 
@@ -31,16 +31,14 @@ student1=Book("sri",20)
 student2=Book("minu",5)
 student3=Book("dravid",35)
 
-#print(student1)                  __str__
+print(student1)                 # __str__
 
-#print(student1==student2)        __eq__
+print(student1==student2)       # __eq__
 
-#print(student1< student2)        __lt__  
+print(student1< student2)        # __gt__
 
-#print(student1 > student2)       __gt__
+print(student1+student3)        #__add__
 
-#print(student1+student3)         __add__
+print("sri" in student2)          #__contains__
 
-#print("sri" in student2)          __contains__
-
-#print(student1["name"])            __getitem__
+print(student1["name"])            #__getitem__

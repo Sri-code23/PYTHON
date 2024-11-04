@@ -7,7 +7,6 @@ def add_toppings(function_calling):
         return decorat
     return wrapper
 
-
 @add_toppings("chocolate")
 def ice_cream(flavor):
     print(f"here is your {flavor} ice cream")

@@ -13,6 +13,7 @@ print(f"nume:{num:<10}")
 print(f"numd:{l:<10}")
 print(f"numd:{f:<10}")
 
+
 print(f"numesg:{num:>10}")
 print(f"numdgs:{l:>10}")
 print(f"numds:{f:>10}")

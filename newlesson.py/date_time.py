@@ -9,9 +9,9 @@ now=datetime.datetime.now()
 now=now.strftime("day : %H:%M:%S \ntime: %d-%m-%Y ")
 
 
-#print(date)
-#print(today)
-#print(time)
+print(date)
+print(today)
+print(time)
 print(now)
 
 

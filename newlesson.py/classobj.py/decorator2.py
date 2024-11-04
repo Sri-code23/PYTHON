@@ -7,6 +7,6 @@ def sum_decor(add):
 
 @sum_decor
 def add(a,b,ad=""):
-    print(f"addition: {a+b}")
+    print(f" addition : {a+b}")
     
 add(4,5,"addition")

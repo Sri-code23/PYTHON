@@ -6,6 +6,7 @@ student1.performance("sri")
 student1.attendance("luffy")
 
 
+
 """
 #student1
 print(student1.name)

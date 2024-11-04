@@ -9,9 +9,10 @@ def my_decorator(say_hello):
 # Use @ to apply the decorator
 @my_decorator
 def say_hello(name,friend):
-    print(f"Hello {name}! and {friend}")
+    print(f"Hello {name}! and {friend}") 
 
 # Call the decorated function
+
 say_hello("sri","friend")
 
 

@@ -15,6 +15,6 @@ class employee:
 
 print(employee.is_valid("cook"))
 
-
+#
 employee1=employee("sri","designer")    #instance method is accessed by first declaring the object name
 print(employee1.get_info())

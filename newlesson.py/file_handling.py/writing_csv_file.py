@@ -17,5 +17,6 @@ try:
             locat.writerow(row)
         print("file created")
 
+
 except Exception as e:
     print("file already exists", e)

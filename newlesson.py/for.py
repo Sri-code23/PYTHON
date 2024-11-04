@@ -12,3 +12,4 @@ for i in range(1,10,-1):
      continue #the loop is iterated even after the condition is true
     else:
      print(i)
+     

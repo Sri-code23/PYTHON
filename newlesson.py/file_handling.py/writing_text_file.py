@@ -16,3 +16,4 @@ with open(file_name,"w") as file:
         file.write(word + "\n")
     print(f" {file_name} list file is created")
         
+        

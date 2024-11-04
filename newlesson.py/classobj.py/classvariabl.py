@@ -11,7 +11,6 @@ student1=student("sri",20)
 student2=student("hari",40)
 student3=student("dain",23)
 
-
 print(student.year)
 
 print(student.numof_students)

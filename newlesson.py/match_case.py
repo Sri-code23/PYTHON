@@ -19,6 +19,7 @@ def day_finder(day):
 day=int(input("enter the number"))    
 print(day_finder(day))
 """    
+
 # to replace this code without using many elif (s)
 # we can use match_case statement method
 
