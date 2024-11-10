@@ -1,0 +1,24 @@
+- 2d lists
+- 2d list array
+- librariess-->threading, random, time,math, datetime,calendar,pygame,requests
+- arbitarary arguments(*args,**kwargs)
+- classes and objects, class method, abstract method, static ethod
+- datatypes
+- special function like dir(),help()
+- data structures-lists,tuple,set,dictionary
+- conditional statements-if,else ,elif,elif not, if not etc,..
+- for and while loops
+- pass, continue, goto
+- format specifiers
+- conditiona expression, list comprehension, lambda functions
+- match-case 
+- end="",sep=".." keywords
+- string operations
+- modules, import, from import etc,...
+- decorators,
+- magic methods
+- property decorators
+- file handling-txt,json,csv files etc,...
+
+
+

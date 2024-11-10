@@ -1,0 +1,6 @@
+# Environment Variables Example File
+
+# This is an example .env file. You should create a .env file in the root of your project
+# and add your environment variables there. This file is not committed to the repository.
+
+.env
